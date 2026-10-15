@@ -1,4 +1,4 @@
-MICA: Deep Incomplete Multi-View Clustering via Multi-Level Imputation and Contrastive Alignment
+**MICA: Deep Incomplete Multi-View Clustering via Multi-Level Imputation and Contrastive Alignment**
 
 Overview
 This repository implements MICA (Deep Incomplete Multi-View Clustering via Multi-Level Imputation and Contrastive Alignment), a novel approach for clustering with incomplete multi-view data. The framework combines sophisticated multi-level imputation mechanisms with contrastive learning to effectively handle missing data while discovering meaningful clusters across views.
